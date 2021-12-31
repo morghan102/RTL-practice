@@ -29,3 +29,9 @@
 // // To test the components, create __test__ folder for ea of the components and then file w ComponentName.test.js
 // you want to test in a similar way to how the user will use it! getByTestId is LAST method to use. You want to start w getByRole, getByLabelText,
 // getByPlaceholderText, getByText
+
+// # Assertions 
+// THERE are so many. this is in the expect(element).______ <--
+
+
+// describe blocks, better way to structure tests
